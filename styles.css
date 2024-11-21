@@ -10,7 +10,7 @@
   background-color: #F44336;
   color: white;
   text-align: center;
-  padding: 10px 0;
+  padding: 16px 0;
   font-size: 1.2em;
 }
 
@@ -28,7 +28,7 @@ body {
 
 header.hero {
   width: 100%;
-  height: 700px;
+  height: 562.5px;
   background: url('images/Frame 12.jpg') no-repeat center center/cover;
   position: relative;
 }
@@ -61,7 +61,7 @@ header .overlay {
 .menu {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  gap: 20px;
+  gap: 16px;
   width: 100%;
   max-width: 1200px;
   padding: 0 20px;
@@ -78,14 +78,14 @@ header .overlay {
 
 .menu-item img {
   width: 100%;
-  height: auto;
+  height: 257.25px;
   border-bottom: 1px solid #ddd;
 }
 
 .menu-item h3 {
   font-size: 1.3em;
   color: #333;
-  margin: 10px 0;
+  margin: 16px 0;
 }
 
 .menu-item p {
